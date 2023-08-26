@@ -31,7 +31,7 @@ ST_findablestyle_freq = [30,5,4,5,4,20,14,8,5,9,8,1,4,1,6]
 
 GI_master_findablestyle_freq = [6,7,1,2,6,3,5,1,5,6,3,1,1,0,1,1,1,0,0,0]
 CB_master_findablestyle_freq = [6,6,2,4,0,4,4,0,1,0,0,4,0,0,0,0,0,0,0,0]
-TH_master_findablestyle_freq = [2,1,2,5,4,0,1,0,3,4,0,0,0,0,0,1,0,0,0,0]
+TH_master_findablestyle_freq = [5,2,1,2,5,4,0,1,0,3,4,0,0,0,0,1,0,0,0,0]
 ST_master_findablestyle_freq = [5,2,1,2,5,4,0,1,0,3,4,0,0,0,0,1,0,0,0,0]
 
 
